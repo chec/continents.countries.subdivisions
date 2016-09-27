@@ -1,0 +1,12 @@
+{
+    "name": "Macao",
+    "native": "\u6fb3\u9580",
+    "phone": "853",
+    "continent": "AS",
+    "capital": "",
+    "currency": "MOP",
+    "languages": "zh,pt",
+    "subdivisions": {
+        "MO-MO": "Macau"
+    }
+}

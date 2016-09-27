@@ -1,0 +1,12 @@
+{
+    "name": "Liechtenstein",
+    "native": "Liechtenstein",
+    "phone": "423",
+    "continent": "EU",
+    "capital": "Vaduz",
+    "currency": "CHF",
+    "languages": "de",
+    "subdivisions": {
+        "LI-LI": "Liechtenstein"
+    }
+}

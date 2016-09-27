@@ -1,0 +1,33 @@
+{
+    "name": "Cambodia",
+    "native": "K\u00e2mp\u016dch\u00e9a",
+    "phone": "855",
+    "continent": "AS",
+    "capital": "Phnom Penh",
+    "currency": "KHR",
+    "languages": "km",
+    "subdivisions": {
+        "KH-23": "Krong Kaeb [Kr\u014fng K\u00eab]",
+        "KH-18": "Krong Preah Sihanouk [Kr\u014fng Pre\u0103h Sihanouk]",
+        "KH-12": "Phnom Penh [Phnum P\u00e9nh]",
+        "KH-2": "Baat Dambang [B\u0103td\u00e2mb\u00e2ng]",
+        "KH-1": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+        "KH-3": "Kampong Chaam [K\u00e2mp\u00f3ng Cham]",
+        "KH-4": "Kampong Chhnang [K\u00e2mp\u00f3ng Chhn\u0103ng]",
+        "KH-5": "Kampong Spueu [K\u00e2mp\u00f3ng Sp\u0153]",
+        "KH-6": "Kampong Thum [K\u00e2mp\u00f3ng Thum]",
+        "KH-7": "Kampot [K\u00e2mp\u00f4t]",
+        "KH-8": "Kandaal [K\u00e2ndal]",
+        "KH-10": "Kracheh [Kr\u00e2ch\u00e9h]",
+        "KH-11": "Mond01 Kiri [M\u00f4nd\u00f3l Kiri]",
+        "KH-22": "Otdar Mean Chey [\u014etd\u00e2r M\u00e9anchey]",
+        "KH-15": "Pousaat [Po\u016dth\u012ds\u0103t]",
+        "KH-13": "Preah Vihear [Pre\u0103h Vih\u00e9ar]",
+        "KH-14": "Prey Veaeng [Prey V\u00eang]",
+        "KH-16": "Rotanak Kiri [R\u00f4t\u00e2n\u00f4kiri]",
+        "KH-17": "Siem Reab [Si\u0115mr\u00e9ab]",
+        "KH-19": "Stueng Traeng [St\u0153ng Tr\u00eang]",
+        "KH-20": "Svaay Rieng [Svay Ri\u0115ng]",
+        "KH-21": "Taakaev [Tak\u00eav]"
+    }
+}

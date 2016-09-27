@@ -1,0 +1,12 @@
+{
+    "name": "Tuvalu",
+    "native": "Tuvalu",
+    "phone": "688",
+    "continent": "OC",
+    "capital": "Funafuti",
+    "currency": "AUD",
+    "languages": "en",
+    "subdivisions": {
+        "TV-TV": "Tuvalu"
+    }
+}

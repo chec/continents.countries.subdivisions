@@ -1,0 +1,32 @@
+{
+    "name": "Ecuador",
+    "native": "Ecuador",
+    "phone": "593",
+    "continent": "SA",
+    "capital": "Quito",
+    "currency": "USD",
+    "languages": "es",
+    "subdivisions": {
+        "EC-A": "Azuay",
+        "EC-B": "Bol\u00edvar",
+        "EC-F": "Ca\u00f1ar",
+        "EC-C": "Carchi",
+        "EC-X": "Cotopaxi",
+        "EC-H": "Chimborazo",
+        "EC-O": "El Oro",
+        "EC-E": "Esmeraldas",
+        "EC-W": "Gal\u00e1pagos",
+        "EC-G": "Guayas",
+        "EC-I": "Imbabura",
+        "EC-L": "Loja",
+        "EC-R": "Los R\u00edos",
+        "EC-M": "Manab\u00ed",
+        "EC-S": "Morona-Santiago",
+        "EC-N": "Napo",
+        "EC-Y": "Pastaza",
+        "EC-P": "Pichincha",
+        "EC-U": "Sucumb\u00edos",
+        "EC-T": "Tungurahua",
+        "EC-Z": "Zarnora-Chinchipe"
+    }
+}

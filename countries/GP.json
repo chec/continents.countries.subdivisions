@@ -1,0 +1,12 @@
+{
+    "name": "Guadeloupe",
+    "native": "Guadeloupe",
+    "phone": "590",
+    "continent": "NA",
+    "capital": "Basse-Terre",
+    "currency": "EUR",
+    "languages": "fr",
+    "subdivisions": {
+        "GP-GP": "Guadeloupe"
+    }
+}

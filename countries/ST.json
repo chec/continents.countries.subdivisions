@@ -1,0 +1,13 @@
+{
+    "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "native": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+    "phone": "239",
+    "continent": "AF",
+    "capital": "S\u00e3o Tom\u00e9",
+    "currency": "STD",
+    "languages": "pt",
+    "subdivisions": {
+        "ST-P": "Pr\u00edncipe",
+        "ST-S": "S\u0101o Tom\u00e9"
+    }
+}

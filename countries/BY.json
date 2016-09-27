@@ -1,0 +1,17 @@
+{
+    "name": "Belarus",
+    "native": "\u0411\u0435\u043b\u0430\u0440\u0443\u0301\u0441\u044c",
+    "phone": "375",
+    "continent": "EU",
+    "capital": "Minsk",
+    "currency": "BYR",
+    "languages": "be,ru",
+    "subdivisions": {
+        "BY-BR": "Brestskaya voblasts'",
+        "BY-HO": "Homyel'skaya voblasts\u2019",
+        "BY-HR": "Hrodnenskaya voblasts'",
+        "BY-MA": "Mahilyowskaya voblasts'",
+        "BY-MI": "Minskaya voblasts'",
+        "BY-VI": "Vitsyebskaya voblasts'"
+    }
+}

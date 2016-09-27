@@ -1,0 +1,21 @@
+{
+    "name": "Ethiopia",
+    "native": "\u12a2\u1275\u12ee\u1335\u12eb",
+    "phone": "251",
+    "continent": "AF",
+    "capital": "Addis Ababa",
+    "currency": "ETB",
+    "languages": "am",
+    "subdivisions": {
+        "ET-AA": "Addis Ababa [Addis Abeba]",
+        "ET-AF": "Afar",
+        "ET-AM": "Amara [Amhara]",
+        "ET-BE": "Benshangul-Gumaz [B\u00e9nishangul]",
+        "ET-GA": "Gambela Peoples [Gamb\u00e9la]",
+        "ET-HA": "Harari People [Harer]",
+        "ET-OR": "Oromia [Oromo]",
+        "ET-SO": "Somali",
+        "ET-SN": "Southern Nations, Nationalities and Peoples",
+        "ET-TI": "Tigrai [Tegr\u00e9]"
+    }
+}

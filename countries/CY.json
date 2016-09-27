@@ -1,0 +1,17 @@
+{
+    "name": "Cyprus",
+    "native": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "phone": "357",
+    "continent": "EU",
+    "capital": "Nicosia",
+    "currency": "EUR",
+    "languages": "el,tr,hy",
+    "subdivisions": {
+        "CY-04": "Ammochostos (Ma\u011fusa)",
+        "CY-06": "Keryneia (Girne)",
+        "CY-03": "Larnaka",
+        "CY-01": "Lefkosia (Lefko\u015fa)",
+        "CY-02": "Lemesos (Leymosun)",
+        "CY-05": "Pafos (Baf)"
+    }
+}

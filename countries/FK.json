@@ -1,0 +1,12 @@
+{
+    "name": "Falkland Islands",
+    "native": "Falkland Islands",
+    "phone": "500",
+    "continent": "SA",
+    "capital": "Stanley",
+    "currency": "FKP",
+    "languages": "en",
+    "subdivisions": {
+        "FK-FK": "Falkland Islands (Malvinas)"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Uzbekistan",
+    "native": "O\u2018zbekiston",
+    "phone": "998",
+    "continent": "AS",
+    "capital": "Tashkent",
+    "currency": "UZS",
+    "languages": "uz,ru",
+    "subdivisions": {
+        "UZ-QR": "Qoraqalpoghiston Respublikasi (Karakalpakstan, Respublika)",
+        "UZ-AN": "Andijon (Andizhan)",
+        "UZ-BU": "Bukhoro (Bukhara)",
+        "UZ-FA": "Farghona (Fergana)",
+        "UZ-JI": "Jizzakh (Dzhizak)",
+        "UZ-KH": "Khorazm (Khorezm)",
+        "UZ-NG": "Namangan",
+        "UZ-NW": "Nawoiy (Navoi)",
+        "UZ-QA": "Qashqadaryo (Kashkadar'ya)",
+        "UZ-SA": "Samarqand (Samarkand)",
+        "UZ-SI": "Sirdaryo (Syrdar'ya)",
+        "UZ-SU": "Surkhondaryo (Surkhandar'ya)",
+        "UZ-TO": "Toshkent (Tashkent)"
+    }
+}

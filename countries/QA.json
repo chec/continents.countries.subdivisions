@@ -1,0 +1,20 @@
+{
+    "name": "Qatar",
+    "native": "\u0642\u0637\u0631",
+    "phone": "974",
+    "continent": "AS",
+    "capital": "Doha",
+    "currency": "QAR",
+    "languages": "ar",
+    "subdivisions": {
+        "QA-DA": "Ad Daw\u1e29ah",
+        "QA-GH": "Al Ghuwayr\u012byah",
+        "QA-JU": "Al Jumayl\u012byah",
+        "QA-KH": "Al Khawr",
+        "QA-WA": "Al Wakrah",
+        "QA-RA": "Ar Rayy\u0101n",
+        "QA-JB": "Jar\u012by\u0101n al B\u0101\u0163nah",
+        "QA-MS": "Mad\u012bnat ash Sham\u0101l",
+        "QA-US": "Umm \u015eal\u0101l"
+    }
+}

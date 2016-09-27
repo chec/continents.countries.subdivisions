@@ -1,0 +1,12 @@
+{
+    "name": "Malta",
+    "native": "Malta",
+    "phone": "356",
+    "continent": "EU",
+    "capital": "Valletta",
+    "currency": "EUR",
+    "languages": "mt,en",
+    "subdivisions": {
+        "MT-MT": "Malta"
+    }
+}

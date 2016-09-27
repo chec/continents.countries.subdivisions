@@ -1,0 +1,12 @@
+{
+    "name": "Grenada",
+    "native": "Grenada",
+    "phone": "1473",
+    "continent": "NA",
+    "capital": "St. George's",
+    "currency": "XCD",
+    "languages": "en",
+    "subdivisions": {
+        "GD-GD": "Grenada"
+    }
+}

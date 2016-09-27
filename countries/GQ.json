@@ -1,0 +1,20 @@
+{
+    "name": "Equatorial Guinea",
+    "native": "Guinea Ecuatorial",
+    "phone": "240",
+    "continent": "AF",
+    "capital": "Malabo",
+    "currency": "XAF",
+    "languages": "es,fr",
+    "subdivisions": {
+        "GQ-C": "Regi\u00f3n Continental",
+        "GQ-CS": "Centro Sur",
+        "GQ-KN": "Kie-Ntem",
+        "GQ-LI": "Litoral",
+        "GQ-WN": "Wele-Nz\u00e1s",
+        "GQ-I": "Regi\u00f3n Insular",
+        "GQ-AN": "Annob\u00f3n",
+        "GQ-BN": "Bioko Norte",
+        "GQ-BS": "Bioko Sur"
+    }
+}

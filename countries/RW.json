@@ -1,0 +1,23 @@
+{
+    "name": "Rwanda",
+    "native": "Rwanda",
+    "phone": "250",
+    "continent": "AF",
+    "capital": "Kigali",
+    "currency": "RWF",
+    "languages": "rw,en,fr",
+    "subdivisions": {
+        "RW-C": "Butare",
+        "RW-I": "Byumba",
+        "RW-E": "Cyangugu",
+        "RW-D": "Gikongoro",
+        "RW-G": "Gisenyi",
+        "RW-B": "Gitarama",
+        "RW-J": "Kibungo",
+        "RW-F": "Kibuye",
+        "RW-K": "Kigali-Rural (Kigali y\u2019 Icyaro)",
+        "RW-L": "Kigali-Ville (Kilgali Ngari)",
+        "RW-M": "Mutara",
+        "RW-H": "Ruhengeri"
+    }
+}

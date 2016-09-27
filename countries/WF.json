@@ -1,0 +1,12 @@
+{
+    "name": "Wallis and Futuna",
+    "native": "Wallis et Futuna",
+    "phone": "681",
+    "continent": "OC",
+    "capital": "Mata-Utu",
+    "currency": "XPF",
+    "languages": "fr",
+    "subdivisions": {
+        "WF-WF": "Wallis & Futuna Islands"
+    }
+}

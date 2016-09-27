@@ -1,0 +1,12 @@
+{
+    "name": "Palau",
+    "native": "Palau",
+    "phone": "680",
+    "continent": "OC",
+    "capital": "Ngerulmud",
+    "currency": "USD",
+    "languages": "en",
+    "subdivisions": {
+        "PW-PW": "Palau"
+    }
+}

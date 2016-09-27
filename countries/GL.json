@@ -1,0 +1,12 @@
+{
+    "name": "Greenland",
+    "native": "Kalaallit Nunaat",
+    "phone": "299",
+    "continent": "NA",
+    "capital": "Nuuk",
+    "currency": "DKK",
+    "languages": "kl",
+    "subdivisions": {
+        "GL-GL": "Greenland"
+    }
+}

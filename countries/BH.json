@@ -1,0 +1,23 @@
+{
+    "name": "Bahrain",
+    "native": "\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "phone": "973",
+    "continent": "AS",
+    "capital": "Manama",
+    "currency": "BHD",
+    "languages": "ar",
+    "subdivisions": {
+        "BH-01": "Al \u1e28add",
+        "BH-03": "Al Man\u0101mah",
+        "BH-10": "Al Min\u0163aqah al Gharb\u012byah",
+        "BH-07": "Al Min\u0163aqah al Wus\u0163a",
+        "BH-05": "Al Min\u0163aqah ash Sham\u0101l\u012byah",
+        "BH-02": "Al Mu\u1e29arraq",
+        "BH-09": "Ar Rif\u0101\u2018",
+        "BH-04": "Jidd \u1e28af\u015f",
+        "BH-12": "Mad\u012bnat \u1e28amad",
+        "BH-08": "Mad\u012bnat \u2018\u012as\u00e1",
+        "BH-11": "Min\u0163aqat Juzur \u1e28aw\u0101r",
+        "BH-06": "Sitrah"
+    }
+}

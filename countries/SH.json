@@ -1,0 +1,14 @@
+{
+    "name": "Saint Helena",
+    "native": "Saint Helena",
+    "phone": "290",
+    "continent": "AF",
+    "capital": "Jamestown",
+    "currency": "SHP",
+    "languages": "en",
+    "subdivisions": {
+        "SH-SH": "Saint Helena",
+        "SH-AC": "Ascension",
+        "SH-TA": "Tristan da Cunha"
+    }
+}

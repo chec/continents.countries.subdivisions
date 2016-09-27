@@ -1,0 +1,16 @@
+{
+    "name": "Djibouti",
+    "native": "Djibouti",
+    "phone": "253",
+    "continent": "AF",
+    "capital": "Djibouti",
+    "currency": "DJF",
+    "languages": "fr,ar",
+    "subdivisions": {
+        "DJ-AS": "Ali Sabieh",
+        "DJ-DI": "Dikhil",
+        "DJ-DJ": "Djibouti",
+        "DJ-OB": "Obock",
+        "DJ-TA": "Tadjoura"
+    }
+}

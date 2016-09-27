@@ -1,0 +1,16 @@
+{
+    "name": "Kuwait",
+    "native": "\u0627\u0644\u0643\u0648\u064a\u062a",
+    "phone": "965",
+    "continent": "AS",
+    "capital": "Kuwait City",
+    "currency": "KWD",
+    "languages": "ar",
+    "subdivisions": {
+        "KW-AH": "Al A\u1e29madi",
+        "KW-FA": "Al Farw\u0101n\u012byah",
+        "KW-JA": "Al Jahrah",
+        "KW-KU": "Al Kuwayt",
+        "KW-HA": "\u1e28awall\u012b"
+    }
+}

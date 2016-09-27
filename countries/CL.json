@@ -1,0 +1,24 @@
+{
+    "name": "Chile",
+    "native": "Chile",
+    "phone": "56",
+    "continent": "SA",
+    "capital": "Santiago",
+    "currency": "CLF,CLP",
+    "languages": "es",
+    "subdivisions": {
+        "CL-AI": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1iez del Campo",
+        "CL-AN": "Antofagasta",
+        "CL-AR": "Araucan\u00eda",
+        "CL-AT": "Atacama",
+        "CL-BI": "B\u00edo-B\u00edo",
+        "CL-CO": "Coquimbo",
+        "CL-LI": "Libertador General Bernardo O'Higgins",
+        "CL-LL": "Los Lagos",
+        "CL-MA": "Magallanes",
+        "CL-ML": "Maule",
+        "CL-RM": "Reg\u00edon Metropolitana de Santiago",
+        "CL-TA": "Tarapac\u00e1",
+        "CL-VS": "Valparaiso"
+    }
+}

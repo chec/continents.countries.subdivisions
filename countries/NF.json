@@ -1,0 +1,12 @@
+{
+    "name": "Norfolk Island",
+    "native": "Norfolk Island",
+    "phone": "672",
+    "continent": "OC",
+    "capital": "Kingston",
+    "currency": "AUD",
+    "languages": "en",
+    "subdivisions": {
+        "NF-NF": "Norfolk Island"
+    }
+}

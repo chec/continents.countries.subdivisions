@@ -1,0 +1,12 @@
+{
+    "name": "Saint Lucia",
+    "native": "Saint Lucia",
+    "phone": "1758",
+    "continent": "NA",
+    "capital": "Castries",
+    "currency": "XCD",
+    "languages": "en",
+    "subdivisions": {
+        "LC-LC": "Saint Lucia"
+    }
+}

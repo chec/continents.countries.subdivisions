@@ -1,0 +1,15 @@
+{
+    "name": "Swaziland",
+    "native": "Swaziland",
+    "phone": "268",
+    "continent": "AF",
+    "capital": "Lobamba",
+    "currency": "SZL",
+    "languages": "en,ss",
+    "subdivisions": {
+        "SZ-HH": "Hhohho",
+        "SZ-LU": "Lubombo",
+        "SZ-MA": "Manzini",
+        "SZ-SH": "Shiselweni"
+    }
+}

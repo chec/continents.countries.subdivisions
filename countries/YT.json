@@ -1,0 +1,12 @@
+{
+    "name": "Mayotte",
+    "native": "Mayotte",
+    "phone": "262",
+    "continent": "AF",
+    "capital": "Mamoudzou",
+    "currency": "EUR",
+    "languages": "fr",
+    "subdivisions": {
+        "YT-YT": "Mayotte"
+    }
+}

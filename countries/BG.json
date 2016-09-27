@@ -1,0 +1,20 @@
+{
+    "name": "Bulgaria",
+    "native": "\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "phone": "359",
+    "continent": "EU",
+    "capital": "Sofia",
+    "currency": "BGN",
+    "languages": "bg",
+    "subdivisions": {
+        "BG-02": "Burgas",
+        "BG-09": "Haskovo",
+        "BG-04": "Love\u010d",
+        "BG-05": "Montana",
+        "BG-06": "Plovdiv",
+        "BG-07": "Ruse",
+        "BG-08": "Sofija",
+        "BG-01": "Sofija-Grad",
+        "BG-03": "Varna"
+    }
+}

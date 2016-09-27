@@ -1,0 +1,12 @@
+{
+    "name": "Nauru",
+    "native": "Nauru",
+    "phone": "674",
+    "continent": "OC",
+    "capital": "Yaren",
+    "currency": "AUD",
+    "languages": "en,na",
+    "subdivisions": {
+        "NR-NR": "Nauru"
+    }
+}

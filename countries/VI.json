@@ -1,0 +1,12 @@
+{
+    "name": "U.S. Virgin Islands",
+    "native": "United States Virgin Islands",
+    "phone": "1340",
+    "continent": "NA",
+    "capital": "Charlotte Amalie",
+    "currency": "USD",
+    "languages": "en",
+    "subdivisions": {
+        "VI-VI": "Virgin Islands (U.S.)"
+    }
+}

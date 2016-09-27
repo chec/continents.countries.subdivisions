@@ -1,0 +1,12 @@
+{
+    "name": "Martinique",
+    "native": "Martinique",
+    "phone": "596",
+    "continent": "NA",
+    "capital": "Fort-de-France",
+    "currency": "EUR",
+    "languages": "fr",
+    "subdivisions": {
+        "MQ-MQ": "Martinique"
+    }
+}

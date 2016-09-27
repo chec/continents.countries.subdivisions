@@ -1,0 +1,12 @@
+{
+    "name": "Guam",
+    "native": "Guam",
+    "phone": "1671",
+    "continent": "OC",
+    "capital": "Hag\u00e5t\u00f1a",
+    "currency": "USD",
+    "languages": "en,ch,es",
+    "subdivisions": {
+        "GU-GU": "Guam"
+    }
+}

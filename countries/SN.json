@@ -1,0 +1,21 @@
+{
+    "name": "Senegal",
+    "native": "S\u00e9n\u00e9gal",
+    "phone": "221",
+    "continent": "AF",
+    "capital": "Dakar",
+    "currency": "XOF",
+    "languages": "fr",
+    "subdivisions": {
+        "SN-DK": "Dakar",
+        "SN-DB": "Diourbel",
+        "SN-FK": "Fatick",
+        "SN-KL": "Kaolack",
+        "SN-KD": "Kolda",
+        "SN-LG": "Louga",
+        "SN-SL": "Saint-Louis",
+        "SN-TC": "Tambacounda",
+        "SN-TH": "Thi\u00e8s",
+        "SN-ZG": "Ziguinchor"
+    }
+}

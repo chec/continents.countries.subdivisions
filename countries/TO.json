@@ -1,0 +1,12 @@
+{
+    "name": "Tonga",
+    "native": "Tonga",
+    "phone": "676",
+    "continent": "OC",
+    "capital": "Nuku'alofa",
+    "currency": "TOP",
+    "languages": "en,to",
+    "subdivisions": {
+        "TO-TO": "Tonga"
+    }
+}

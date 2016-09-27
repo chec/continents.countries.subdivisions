@@ -1,0 +1,12 @@
+{
+    "name": "Seychelles",
+    "native": "Seychelles",
+    "phone": "248",
+    "continent": "AF",
+    "capital": "Victoria",
+    "currency": "SCR",
+    "languages": "fr,en",
+    "subdivisions": {
+        "SC-SC": "Seychelles"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "South Korea",
+    "native": "\ub300\ud55c\ubbfc\uad6d",
+    "phone": "82",
+    "continent": "AS",
+    "capital": "Seoul",
+    "currency": "KRW",
+    "languages": "ko",
+    "subdivisions": {
+        "KR-11": "Seoul Teugbyeolsi [ Seoul-T\u2019\u016dkpy\u014flshi]",
+        "KR-26": "Busan Gwang'yeogsi [Pusan-Kwangy\u014fkshi]",
+        "KR-27": "Daegu Gwang'yeogsi [Taegu-Kwangy\u014fkshi)",
+        "KR-30": "Daejeon Gwang'yeogsi [Taej\u014fn-Kwangy\u014fkshi]",
+        "KR-29": "Gwangju Gwang'yeogsi [Kwangju-Kwangy\u014fkshi]",
+        "KR-28": "Incheon Gwang'yeogsi [Inch\u014fn-Kwangy\u014fkshi]",
+        "KR-31": "Ulsan Gwang'yeogsi [Ulsan-Kwangy\u014fkshi]",
+        "KR-43": "Chungcheongbugdo [Ch'ungch'\u014fngbuk-do]",
+        "KR-44": "Chungcheongnamdo [Ch'ungch'\u014fngnam-do]",
+        "KR-42": "Gang'weondo [Kang-won-do]",
+        "KR-41": "Gyeonggido [Ky\u014fnggi-do]",
+        "KR-47": "Gyeongsangbugdo [Ky\u014fngsangbuk-do]",
+        "KR-48": "Gyeongsangnamdo [Ky\u014fngsangnam-do]",
+        "KR-49": "Jejudo [Cheju-do]",
+        "KR-45": "Jeonrabugdo [Ch\u014fllabuk-do)",
+        "KR-46": "Jeonranamdo [Ch\u014fllanam-do]"
+    }
+}

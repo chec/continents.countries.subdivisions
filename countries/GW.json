@@ -1,0 +1,19 @@
+{
+    "name": "Guinea-Bissau",
+    "native": "Guin\u00e9-Bissau",
+    "phone": "245",
+    "continent": "AF",
+    "capital": "Bissau",
+    "currency": "XOF",
+    "languages": "pt",
+    "subdivisions": {
+        "GW-BS": "Bissau",
+        "GW-BA": "Bafat\u00e1",
+        "GW-BM": "Biombo",
+        "GW-BL": "Bolama",
+        "GW-CA": "Cacheu",
+        "GW-GA": "Gab\u00fa",
+        "GW-OI": "Oio",
+        "GW-QU": "Quinara"
+    }
+}

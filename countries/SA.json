@@ -1,0 +1,24 @@
+{
+    "name": "Saudi Arabia",
+    "native": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "phone": "966",
+    "continent": "AS",
+    "capital": "Riyadh",
+    "currency": "SAR",
+    "languages": "ar",
+    "subdivisions": {
+        "SA-11": "Al B\u0101\u1e29ah",
+        "SA-08": "Al \u1e28ud\u016bd ash Sham\u0101l\u012byah",
+        "SA-12": "Al Jawf",
+        "SA-03": "Al Mad\u012bnah",
+        "SA-05": "Al Qa\u015fim",
+        "SA-O1": "Ar Riy\u0101\u1e11",
+        "SA-04": "Ash Sharq\u012byah",
+        "SA-14": "\u2018As\u012br",
+        "SA-06": "\u1e28\u0101'il",
+        "SA-09": "J\u012bz\u0101n",
+        "SA-02": "Makkah",
+        "SA-10": "Najr\u0101n",
+        "SA-07": "Tab\u016bk"
+    }
+}

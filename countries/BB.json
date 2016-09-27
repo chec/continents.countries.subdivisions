@@ -1,0 +1,12 @@
+{
+    "name": "Barbados",
+    "native": "Barbados",
+    "phone": "1246",
+    "continent": "NA",
+    "capital": "Bridgetown",
+    "currency": "BBD",
+    "languages": "en",
+    "subdivisions": {
+        "BB-BB": "Barbados"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "New Caledonia",
+    "native": "Nouvelle-Cal\u00e9donie",
+    "phone": "687",
+    "continent": "OC",
+    "capital": "Noum\u00e9a",
+    "currency": "XPF",
+    "languages": "fr",
+    "subdivisions": {
+        "NC-NC": "New Caledonia"
+    }
+}

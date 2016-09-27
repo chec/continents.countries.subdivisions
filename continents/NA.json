@@ -1,0 +1,767 @@
+{
+    "name": "North America",
+    "countries": {
+        "AG": {
+            "name": "Antigua and Barbuda",
+            "native": "Antigua and Barbuda",
+            "phone": "1268",
+            "continent": "NA",
+            "capital": "Saint John's",
+            "currency": "XCD",
+            "languages": "en",
+            "subdivisions": {
+                "AG-AG": "Antigua & Barbuda"
+            }
+        },
+        "AI": {
+            "name": "Anguilla",
+            "native": "Anguilla",
+            "phone": "1264",
+            "continent": "NA",
+            "capital": "The Valley",
+            "currency": "XCD",
+            "languages": "en",
+            "subdivisions": {
+                "AI-AI": "Anguilla"
+            }
+        },
+        "AW": {
+            "name": "Aruba",
+            "native": "Aruba",
+            "phone": "297",
+            "continent": "NA",
+            "capital": "Oranjestad",
+            "currency": "AWG",
+            "languages": "nl,pa",
+            "subdivisions": {
+                "AW-AW": "Aruba"
+            }
+        },
+        "BB": {
+            "name": "Barbados",
+            "native": "Barbados",
+            "phone": "1246",
+            "continent": "NA",
+            "capital": "Bridgetown",
+            "currency": "BBD",
+            "languages": "en",
+            "subdivisions": {
+                "BB-BB": "Barbados"
+            }
+        },
+        "BL": {
+            "name": "Saint Barth\u00e9lemy",
+            "native": "Saint-Barth\u00e9lemy",
+            "phone": "590",
+            "continent": "NA",
+            "capital": "Gustavia",
+            "currency": "EUR",
+            "languages": "fr",
+            "subdivisions": []
+        },
+        "BM": {
+            "name": "Bermuda",
+            "native": "Bermuda",
+            "phone": "1441",
+            "continent": "NA",
+            "capital": "Hamilton",
+            "currency": "BMD",
+            "languages": "en",
+            "subdivisions": {
+                "BM-BM": "Bermuda"
+            }
+        },
+        "BQ": {
+            "name": "Bonaire",
+            "native": "Bonaire",
+            "phone": "5997",
+            "continent": "NA",
+            "capital": "Kralendijk",
+            "currency": "USD",
+            "languages": "nl",
+            "subdivisions": []
+        },
+        "BS": {
+            "name": "Bahamas",
+            "native": "Bahamas",
+            "phone": "1242",
+            "continent": "NA",
+            "capital": "Nassau",
+            "currency": "BSD",
+            "languages": "en",
+            "subdivisions": {
+                "BS-AC": "Acklins and Crooked Islands",
+                "BS-BI": "Bimini",
+                "BS-CI": "Cat Island",
+                "BS-EX": "Exuma",
+                "BS-FP": "Freeport",
+                "BS-FC": "Fresh Creek",
+                "BS-GH": "Governor's Harbour",
+                "BS-GT": "Green Turtle Cay",
+                "BS-HI": "Harbour Island",
+                "BS-HR": "High Rock",
+                "BS-IN": "Inagua",
+                "BS-KB": "Kemps Bay",
+                "BS-LI": "Long Island",
+                "BS-MH": "Marsh Harbour",
+                "BS-MG": "Mayaguana",
+                "BS-NP": "New Providence",
+                "BS-NB": "Nicholls Town and Berry Islands",
+                "BS-RI": "Ragged Island",
+                "BS-RS": "Rock Sound",
+                "BS-SP": "Sandy Point",
+                "BS-SR": "San Salvador and Rum Cay"
+            }
+        },
+        "BZ": {
+            "name": "Belize",
+            "native": "Belize",
+            "phone": "501",
+            "continent": "NA",
+            "capital": "Belmopan",
+            "currency": "BZD",
+            "languages": "en,es",
+            "subdivisions": {
+                "BZ-BZ": "Belize",
+                "BZ-CY": "Cayo",
+                "BZ-CZL": "Corozal",
+                "BZ-OW": "Orange Walk",
+                "BZ-SC": "Stann Creek",
+                "BZ-TOL": "Toledo"
+            }
+        },
+        "CA": {
+            "name": "Canada",
+            "native": "Canada",
+            "phone": "1",
+            "continent": "NA",
+            "capital": "Ottawa",
+            "currency": "CAD",
+            "languages": "en,fr",
+            "subdivisions": {
+                "CA-AB": "Alberta",
+                "CA-BC": "British Columbia (Colombie-Britannique)",
+                "CA-MB": "Manitoba",
+                "CA-NB": "New Brunswick (Nouveau-Brunswick)",
+                "CA-NF": "Newfoundland (Terre-Neuve)",
+                "CA-NS": "Nova Scotia (Nouvelle-\u00c9cosse)",
+                "CA-ON": "Ontario",
+                "CA-PE": "Printe Edward Island (\u00cele-du-Prince-\u00c9douard)",
+                "CA-QC": "Quebec (Qu\u00e9bec)",
+                "CA-SK": "Saskatchewan",
+                "CA-NT": "Northwest Territories (Territoires du Nord-Ouest)",
+                "CA-YT": "Yukon Territory (Teritoire du Yukon)"
+            }
+        },
+        "CR": {
+            "name": "Costa Rica",
+            "native": "Costa Rica",
+            "phone": "506",
+            "continent": "NA",
+            "capital": "San Jos\u00e9",
+            "currency": "CRC",
+            "languages": "es",
+            "subdivisions": {
+                "CR-A": "Alajuela",
+                "CR-C": "Cartago",
+                "CR-G": "Guanacaste",
+                "CR-H": "Heredia",
+                "CR-L": "Lim\u00f3n",
+                "CR-P": "Puntarenas",
+                "CR-SJ": "San Jos\u00e9"
+            }
+        },
+        "CU": {
+            "name": "Cuba",
+            "native": "Cuba",
+            "phone": "53",
+            "continent": "NA",
+            "capital": "Havana",
+            "currency": "CUC,CUP",
+            "languages": "es",
+            "subdivisions": {
+                "CU-09": "Camag\u00fcey",
+                "CU-03": "Ciudad de La Habana",
+                "CU-12": "Granma",
+                "CU-14": "Guant\u00e1namo",
+                "CU-11": "Holgu\u00edn",
+                "CU-02": "La Habana",
+                "CU-10": "Las Tunas",
+                "CU-04": "Matanzas",
+                "CU-01": "Pinar del R\u00edo",
+                "CU-07": "Sancti Sp\u00edritus",
+                "CU-13": "Santiago de Cuba",
+                "CU-05": "Villa Clara",
+                "CU-99": "Isla de la Juventud"
+            }
+        },
+        "CW": {
+            "name": "Curacao",
+            "native": "Cura\u00e7ao",
+            "phone": "5999",
+            "continent": "NA",
+            "capital": "Willemstad",
+            "currency": "ANG",
+            "languages": "nl,pa,en",
+            "subdivisions": []
+        },
+        "DM": {
+            "name": "Dominica",
+            "native": "Dominica",
+            "phone": "1767",
+            "continent": "NA",
+            "capital": "Roseau",
+            "currency": "XCD",
+            "languages": "en",
+            "subdivisions": {
+                "DM-DM": "Dominica"
+            }
+        },
+        "DO": {
+            "name": "Dominican Republic",
+            "native": "Rep\u00fablica Dominicana",
+            "phone": "1809,1829,1849",
+            "continent": "NA",
+            "capital": "Santo Domingo",
+            "currency": "DOP",
+            "languages": "es",
+            "subdivisions": {
+                "DO-DN": "Distrito National (Santo Domingo)",
+                "DO-AZ": "Azua",
+                "DO-BR": "Bahoruco",
+                "DO-BH": "Barahona",
+                "DO-DA": "Dajab\u00f3n",
+                "DO-DU": "Duarte",
+                "DO-SE": "El Seibo",
+                "DO-EP": "La Estrelleta [El\u00edas Pi\u00f1a]",
+                "DO-HM": "Hato Mayor",
+                "DO-IN": "Independencia",
+                "DO-AL": "La Altagracia",
+                "DO-RO": "La Romana",
+                "DO-VE": "La Vega",
+                "DO-MT": "Mar\u00eda Trinidad S\u00e1nchez",
+                "DO-MN": "Monse\u00f1or Nouel",
+                "DO-MC": "Monte Cristi",
+                "DO-MP": "Monte Plata",
+                "DO-PN": "Pedernales",
+                "DO-PR": "Peravia",
+                "DO-PP": "Puerto Plata",
+                "DO-SC": "Salcedo",
+                "DO-SM": "Saman\u00e1",
+                "DO-SZ": "Sanchez Ram\u00edrez",
+                "DO-CR": "San Crist\u00f3bal",
+                "DO-JU": "San Juan",
+                "DO-PM": "San Pedro de Macor\u00eds",
+                "DO-ST": "Santiago",
+                "DO-SR": "Santiago Rodr\u00edguez",
+                "DO-VA": "Valverde"
+            }
+        },
+        "GD": {
+            "name": "Grenada",
+            "native": "Grenada",
+            "phone": "1473",
+            "continent": "NA",
+            "capital": "St. George's",
+            "currency": "XCD",
+            "languages": "en",
+            "subdivisions": {
+                "GD-GD": "Grenada"
+            }
+        },
+        "GL": {
+            "name": "Greenland",
+            "native": "Kalaallit Nunaat",
+            "phone": "299",
+            "continent": "NA",
+            "capital": "Nuuk",
+            "currency": "DKK",
+            "languages": "kl",
+            "subdivisions": {
+                "GL-GL": "Greenland"
+            }
+        },
+        "GP": {
+            "name": "Guadeloupe",
+            "native": "Guadeloupe",
+            "phone": "590",
+            "continent": "NA",
+            "capital": "Basse-Terre",
+            "currency": "EUR",
+            "languages": "fr",
+            "subdivisions": {
+                "GP-GP": "Guadeloupe"
+            }
+        },
+        "GT": {
+            "name": "Guatemala",
+            "native": "Guatemala",
+            "phone": "502",
+            "continent": "NA",
+            "capital": "Guatemala City",
+            "currency": "GTQ",
+            "languages": "es",
+            "subdivisions": {
+                "GT-AV": "Alta Verapaz",
+                "GT-BV": "Baja Verapaz",
+                "GT-CM": "Chimaltenango",
+                "GT-CQ": "Chiquimula",
+                "GT-PR": "El Progreso",
+                "GT-ES": "Escuintla",
+                "GT-GU": "Guatemala",
+                "GT-HU": "Huehuetenango",
+                "GT-IZ": "Izabal",
+                "GT-JA": "Jalapa",
+                "GT-JU": "Jutiapa",
+                "GT-PE": "Pet\u00e9n",
+                "GT-QZ": "Quezaltenango",
+                "GT-QC": "Quich\u00e9",
+                "GT-RE": "Retalhuleu",
+                "GT-SA": "Sacatep\u00e9quez",
+                "GT-SM": "San Marcos",
+                "GT-SR": "Santa Rosa",
+                "GT-SO": "Solol\u00e1",
+                "GT-SU": "Suchitep\u00e9quez",
+                "GT-TO": "Totonicap\u00e1n",
+                "GT-ZA": "Zacapa"
+            }
+        },
+        "HN": {
+            "name": "Honduras",
+            "native": "Honduras",
+            "phone": "504",
+            "continent": "NA",
+            "capital": "Tegucigalpa",
+            "currency": "HNL",
+            "languages": "es",
+            "subdivisions": {
+                "HN-AT": "Atl\u00e1ntida",
+                "HN-CL": "Col\u00f3n",
+                "HN-CM": "Comayagua",
+                "HN-CP": "Cop\u00e1n",
+                "HN-CR": "Cort\u00e9s",
+                "HN-CH": "Choluteca",
+                "HN-EP": "El Para\u00edso",
+                "HN-FM": "Francisco Moraz\u00e1n",
+                "HN-GD": "Gracias a Dios",
+                "HN-IN": "Intibuc\u00e1",
+                "HN-IB": "Islas de la Bah\u00eda",
+                "HN-LP": "La Paz",
+                "HN-LE": "Lempira",
+                "HN-OC": "Ocotepeque",
+                "HN-OL": "Olancho",
+                "HN-SB": "Santa B\u00e1rbara",
+                "HN-VA": "Valle",
+                "HN-YO": "Yoro"
+            }
+        },
+        "HT": {
+            "name": "Haiti",
+            "native": "Ha\u00efti",
+            "phone": "509",
+            "continent": "NA",
+            "capital": "Port-au-Prince",
+            "currency": "HTG,USD",
+            "languages": "fr,ht",
+            "subdivisions": {
+                "HT-AR": "Artibonite",
+                "HT-CE": "Centre",
+                "HT-GA": "Grande-Anse",
+                "HT-ND": "Nord",
+                "HT-NE": "Nord-Est",
+                "HT-NO": "Nord-Ouest",
+                "HT-OU": "Ouest",
+                "HT-SD": "Sud",
+                "HT-SE": "Sud-Est"
+            }
+        },
+        "JM": {
+            "name": "Jamaica",
+            "native": "Jamaica",
+            "phone": "1876",
+            "continent": "NA",
+            "capital": "Kingston",
+            "currency": "JMD",
+            "languages": "en",
+            "subdivisions": {
+                "JM-13": "Clarendon",
+                "JM-09": "Hanover",
+                "JM-01": "Kingston",
+                "JM-12": "Manchester",
+                "JM-04": "Portland",
+                "JM-02": "Saint Andrew",
+                "JM-06": "Saint Ann",
+                "JM-14": "Saint Catherine",
+                "JM-11": "Saint Elizabeth",
+                "JM-08": "Saint James",
+                "JM-05": "Saint Mary",
+                "JM-03": "Saint Thomas",
+                "JM-07": "Trelawny",
+                "JM-10": "Westmoreland"
+            }
+        },
+        "KN": {
+            "name": "Saint Kitts and Nevis",
+            "native": "Saint Kitts and Nevis",
+            "phone": "1869",
+            "continent": "NA",
+            "capital": "Basseterre",
+            "currency": "XCD",
+            "languages": "en",
+            "subdivisions": {
+                "KN-KN": "Saint Kitts & Nevis"
+            }
+        },
+        "KY": {
+            "name": "Cayman Islands",
+            "native": "Cayman Islands",
+            "phone": "1345",
+            "continent": "NA",
+            "capital": "George Town",
+            "currency": "KYD",
+            "languages": "en",
+            "subdivisions": {
+                "KY-KY": "Cayman Islands"
+            }
+        },
+        "LC": {
+            "name": "Saint Lucia",
+            "native": "Saint Lucia",
+            "phone": "1758",
+            "continent": "NA",
+            "capital": "Castries",
+            "currency": "XCD",
+            "languages": "en",
+            "subdivisions": {
+                "LC-LC": "Saint Lucia"
+            }
+        },
+        "MF": {
+            "name": "Saint Martin",
+            "native": "Saint-Martin",
+            "phone": "590",
+            "continent": "NA",
+            "capital": "Marigot",
+            "currency": "EUR",
+            "languages": "en,fr,nl",
+            "subdivisions": []
+        },
+        "MQ": {
+            "name": "Martinique",
+            "native": "Martinique",
+            "phone": "596",
+            "continent": "NA",
+            "capital": "Fort-de-France",
+            "currency": "EUR",
+            "languages": "fr",
+            "subdivisions": {
+                "MQ-MQ": "Martinique"
+            }
+        },
+        "MS": {
+            "name": "Montserrat",
+            "native": "Montserrat",
+            "phone": "1664",
+            "continent": "NA",
+            "capital": "Plymouth",
+            "currency": "XCD",
+            "languages": "en",
+            "subdivisions": {
+                "MS-MS": "Montserrat"
+            }
+        },
+        "MX": {
+            "name": "Mexico",
+            "native": "M\u00e9xico",
+            "phone": "52",
+            "continent": "NA",
+            "capital": "Mexico City",
+            "currency": "MXN",
+            "languages": "es",
+            "subdivisions": {
+                "MX-DIF": "Distrito Federal",
+                "MX-AGU": "Aguascalientes",
+                "MX-BCN": "Baja California",
+                "MX-BCS": "Baja California Sur",
+                "MX-CAM": "Campeche",
+                "MX-COA": "Coahuila",
+                "MX-COL": "Colima",
+                "MX-CHP": "Chiapas",
+                "MX-CHH": "Chihuahua",
+                "MX-DUR": "Durango",
+                "MX-GRO": "Guerrero",
+                "MX-GUA": "Guanajuato",
+                "MX-HID": "Hidalgo",
+                "MX-JAL": "Jalisco",
+                "MX-MEX": "M\u00e9xico",
+                "MX-MIC": "Michoac\u00e1n",
+                "MX-MOR": "Morelos",
+                "MX-NAY": "Nayarit",
+                "MX-NLE": "Nuevo Le\u00f3n",
+                "MX-OAX": "Oaxaca",
+                "MX-PUE": "Puebla",
+                "MX-QUE": "Queretaro",
+                "MX-ROO": "Quintana Roo",
+                "MX-SLP": "San Luis Potos\u00ed",
+                "MX-SIN": "Sinaloa",
+                "MX-SON": "Sonora",
+                "MX-TAB": "Tabasco",
+                "MX-TAM": "Tamaulipas",
+                "MX-TLA": "Tlaxcala",
+                "MX-VER": "Veracruz",
+                "MX-YUC": "Yucat\u00e1n",
+                "MX-ZAC": "Zacatecas"
+            }
+        },
+        "NI": {
+            "name": "Nicaragua",
+            "native": "Nicaragua",
+            "phone": "505",
+            "continent": "NA",
+            "capital": "Managua",
+            "currency": "NIO",
+            "languages": "es",
+            "subdivisions": {
+                "NI-BO": "Boaco",
+                "NI-CA": "Carazo",
+                "NI-CI": "Chinandega",
+                "NI-CO": "Chontales",
+                "NI-ES": "Estel\u00ed",
+                "NI-GR": "Granada",
+                "NI-JI": "Jinotega",
+                "NI-LE": "Le\u00f3n",
+                "NI-MD": "Madriz",
+                "NI-MN": "Manaqua",
+                "NI-MS": "Masaya",
+                "NI-MT": "Matagalpa",
+                "NI-NS": "Nueva Segovia",
+                "NI-SJ": "R\u00edo San Juan",
+                "NI-RI": "Rivas",
+                "NI-ZE": "Zelaya"
+            }
+        },
+        "PA": {
+            "name": "Panama",
+            "native": "Panam\u00e1",
+            "phone": "507",
+            "continent": "NA",
+            "capital": "Panama City",
+            "currency": "PAB,USD",
+            "languages": "es",
+            "subdivisions": {
+                "PA-1": "Botas del Toro",
+                "PA-2": "Cocl\u00e9",
+                "PA-3": "Col\u00f3n",
+                "PA-4": "Chiriqu\u012b",
+                "PA-5": "Dari\u00e9n",
+                "PA-6": "Herrera",
+                "PA-7": "Los Santos",
+                "PA-8": "Panam\u00e1",
+                "PA-9": "Veraguas",
+                "PA-0": "Comarca de San Blas"
+            }
+        },
+        "PM": {
+            "name": "Saint Pierre and Miquelon",
+            "native": "Saint-Pierre-et-Miquelon",
+            "phone": "508",
+            "continent": "NA",
+            "capital": "Saint-Pierre",
+            "currency": "EUR",
+            "languages": "fr",
+            "subdivisions": {
+                "PM-PM": "St. Pierre & Miquelon"
+            }
+        },
+        "PR": {
+            "name": "Puerto Rico",
+            "native": "Puerto Rico",
+            "phone": "1787,1939",
+            "continent": "NA",
+            "capital": "San Juan",
+            "currency": "USD",
+            "languages": "es,en",
+            "subdivisions": {
+                "PR-PR": "Puerto Rico"
+            }
+        },
+        "SV": {
+            "name": "El Salvador",
+            "native": "El Salvador",
+            "phone": "503",
+            "continent": "NA",
+            "capital": "San Salvador",
+            "currency": "SVC,USD",
+            "languages": "es",
+            "subdivisions": {
+                "SV-AH": "Ahuachap\u00e1n",
+                "SV-CA": "Caba\u00f1as",
+                "SV-CU": "Cuscatl\u00e1n",
+                "SV-CH": "Chalatenango",
+                "SV-LI": "La Libertad",
+                "SV-PA": "La Paz",
+                "SV-UN": "La Uni\u00f3n",
+                "SV-MO": "Moraz\u00e1n",
+                "SV-SM": "San Miguel",
+                "SV-SS": "San Salvador",
+                "SV-SA": "Santa Ana",
+                "SV-SV": "San Vicente",
+                "SV-SO": "Sonsonate",
+                "SV-SU": "Usulut\u00e1n"
+            }
+        },
+        "SX": {
+            "name": "Sint Maarten",
+            "native": "Sint Maarten",
+            "phone": "1721",
+            "continent": "NA",
+            "capital": "Philipsburg",
+            "currency": "ANG",
+            "languages": "nl,en",
+            "subdivisions": []
+        },
+        "TC": {
+            "name": "Turks and Caicos Islands",
+            "native": "Turks and Caicos Islands",
+            "phone": "1649",
+            "continent": "NA",
+            "capital": "Cockburn Town",
+            "currency": "USD",
+            "languages": "en",
+            "subdivisions": {
+                "TC-TC": "Turks & Caicos Islands"
+            }
+        },
+        "TT": {
+            "name": "Trinidad and Tobago",
+            "native": "Trinidad and Tobago",
+            "phone": "1868",
+            "continent": "NA",
+            "capital": "Port of Spain",
+            "currency": "TTD",
+            "languages": "en",
+            "subdivisions": {
+                "TT-CTT": "Couva-Tabaquite-Talparo",
+                "TT-DMN": "Diego Martin",
+                "TT-ETO": "Eastern Tobago",
+                "TT-PED": "Penal-Debe",
+                "TT-PRT": "Princes Town",
+                "TT-RCM": "Rio Claro-Mayaro",
+                "TT-SGE": "Sangre Grande",
+                "TT-SJL": "San Juan-Laventille",
+                "TT-SIP": "Siparia",
+                "TT-TUP": "Tunapuna-Piarco",
+                "TT-WTO": "Western Tobago",
+                "TT-ARI": "Arima",
+                "TT-CHA": "Chaguanas",
+                "TT-PTF": "Point Fortin",
+                "TT-POS": "Port of Spain",
+                "TT-SFO": "San Fernando"
+            }
+        },
+        "US": {
+            "name": "United States",
+            "native": "United States",
+            "phone": "1",
+            "continent": "NA",
+            "capital": "Washington D.C.",
+            "currency": "USD,USN,USS",
+            "languages": "en",
+            "subdivisions": {
+                "US-AL": "Alabama",
+                "US-AK": "Alaska",
+                "US-AZ": "Arizona",
+                "US-AR": "Arkansas",
+                "US-CA": "California",
+                "US-CO": "Colorado",
+                "US-CT": "Connecticut",
+                "US-DE": "Delaware",
+                "US-FL": "Florida",
+                "US-GA": "Georgia",
+                "US-HI": "Hawaii",
+                "US-ID": "Idaho",
+                "US-IL": "Illinois",
+                "US-IN": "Indiana",
+                "US-IA": "Iowa",
+                "US-KS": "Kansas",
+                "US-KY": "Kentucky",
+                "US-LA": "Louisiana",
+                "US-ME": "Maine",
+                "US-MD": "Maryland",
+                "US-MA": "Massachusetts",
+                "US-MI": "Michigan",
+                "US-MN": "Minnesota",
+                "US-MS": "Mississippi",
+                "US-MO": "Missouri",
+                "US-MT": "Montana",
+                "US-NE": "Nebraska",
+                "US-NV": "Nevada",
+                "US-NH": "New Hampshire",
+                "US-NJ": "New Jersey",
+                "US-NM": "New Mexico",
+                "US-NY": "New York",
+                "US-NC": "North Carolina",
+                "US-ND": "North Dakota",
+                "US-OH": "Ohio",
+                "US-OK": "Oklahoma",
+                "US-OR": "Oregon",
+                "US-PA": "Pennsylvania",
+                "US-RI": "Rhode Island",
+                "US-SC": "South Carolina",
+                "US-SD": "South Dakota",
+                "US-TN": "Tennessee",
+                "US-TX": "Texas",
+                "US-UT": "Utah",
+                "US-VT": "Vermont",
+                "US-VA": "Virginia",
+                "US-WA": "Washington",
+                "US-WV": "West Virginia",
+                "US-WI": "Wisconsin",
+                "US-WY": "Wyoming",
+                "US-DC": "District of Columbia",
+                "US-AS": "American Samoa",
+                "US-GU": "Guam",
+                "US-MP": "Northern Mariana Islands",
+                "US-PR": "Puerto Rico",
+                "US-UM": "United States Minor Outlying Islands",
+                "US-VI": "Virgin Islands, U.S."
+            }
+        },
+        "VC": {
+            "name": "Saint Vincent and the Grenadines",
+            "native": "Saint Vincent and the Grenadines",
+            "phone": "1784",
+            "continent": "NA",
+            "capital": "Kingstown",
+            "currency": "XCD",
+            "languages": "en",
+            "subdivisions": {
+                "VC-VC": "St. Vincent & the Grenadines"
+            }
+        },
+        "VG": {
+            "name": "British Virgin Islands",
+            "native": "British Virgin Islands",
+            "phone": "1284",
+            "continent": "NA",
+            "capital": "Road Town",
+            "currency": "USD",
+            "languages": "en",
+            "subdivisions": {
+                "VG-VG": "Virgin Islands (British)"
+            }
+        },
+        "VI": {
+            "name": "U.S. Virgin Islands",
+            "native": "United States Virgin Islands",
+            "phone": "1340",
+            "continent": "NA",
+            "capital": "Charlotte Amalie",
+            "currency": "USD",
+            "languages": "en",
+            "subdivisions": {
+                "VI-VI": "Virgin Islands (U.S.)"
+            }
+        }
+    }
+}

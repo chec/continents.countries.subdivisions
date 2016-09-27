@@ -1,0 +1,25 @@
+{
+    "name": "Syria",
+    "native": "\u0633\u0648\u0631\u064a\u0627",
+    "phone": "963",
+    "continent": "AS",
+    "capital": "Damascus",
+    "currency": "SYP",
+    "languages": "ar",
+    "subdivisions": {
+        "SY-HA": "Al \u1e28asakah",
+        "SY-LA": "Al L\u0101dhiq\u012byah",
+        "SY-QU": "Al Qunay\u0163irah",
+        "SY-RA": "Ar Raqqah",
+        "SY-SU": "As Suwayd\u0101'",
+        "SY-DR": "Dar\u2019\u0101",
+        "SY-DY": "Dayr az Zawr",
+        "SY-DI": "Dimashq",
+        "SY-HL": "\u1e28alab",
+        "SY-HM": "\u1e28am\u0101h",
+        "SY-HI": "\u1e28im\u015f",
+        "SY-ID": "Idlib",
+        "SY-RD": "R\u012bf Dimashq",
+        "SY-TA": "\u0162ar\u0163\u016bs"
+    }
+}

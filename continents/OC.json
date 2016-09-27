@@ -1,0 +1,422 @@
+{
+    "name": "Oceania",
+    "countries": {
+        "AS": {
+            "name": "American Samoa",
+            "native": "American Samoa",
+            "phone": "1684",
+            "continent": "OC",
+            "capital": "Pago Pago",
+            "currency": "USD",
+            "languages": "en,sm",
+            "subdivisions": {
+                "AS-AS": "American Samoa"
+            }
+        },
+        "AU": {
+            "name": "Australia",
+            "native": "Australia",
+            "phone": "61",
+            "continent": "OC",
+            "capital": "Canberra",
+            "currency": "AUD",
+            "languages": "en",
+            "subdivisions": {
+                "AU-NSW": "New South Wales",
+                "AU-QLD": "Queensland",
+                "AU-SA": "South Australia",
+                "AU-TAS": "Tasmania",
+                "AU-VIC": "Victoria",
+                "AU-WA": "Western Australia",
+                "AU-ACT": "Australian Capital Territory",
+                "AU-NT": "Northern Territory"
+            }
+        },
+        "CK": {
+            "name": "Cook Islands",
+            "native": "Cook Islands",
+            "phone": "682",
+            "continent": "OC",
+            "capital": "Avarua",
+            "currency": "NZD",
+            "languages": "en",
+            "subdivisions": {
+                "CK-CK": "Cook Islands"
+            }
+        },
+        "FJ": {
+            "name": "Fiji",
+            "native": "Fiji",
+            "phone": "679",
+            "continent": "OC",
+            "capital": "Suva",
+            "currency": "FJD",
+            "languages": "en,fj,hi,ur",
+            "subdivisions": {
+                "FJ-C": "Central",
+                "FJ-E": "Eastern",
+                "FJ-N": "Northern",
+                "FJ-W": "Western",
+                "FJ-R": "Rotuma"
+            }
+        },
+        "FM": {
+            "name": "Micronesia",
+            "native": "Micronesia",
+            "phone": "691",
+            "continent": "OC",
+            "capital": "Palikir",
+            "currency": "USD",
+            "languages": "en",
+            "subdivisions": {
+                "FM-TRK": "chuuk",
+                "FM-KSA": "Kosrae",
+                "FM-PNI": "Pohnpei",
+                "FM-YAP": "Yap"
+            }
+        },
+        "GU": {
+            "name": "Guam",
+            "native": "Guam",
+            "phone": "1671",
+            "continent": "OC",
+            "capital": "Hag\u00e5t\u00f1a",
+            "currency": "USD",
+            "languages": "en,ch,es",
+            "subdivisions": {
+                "GU-GU": "Guam"
+            }
+        },
+        "KI": {
+            "name": "Kiribati",
+            "native": "Kiribati",
+            "phone": "686",
+            "continent": "OC",
+            "capital": "South Tarawa",
+            "currency": "AUD",
+            "languages": "en",
+            "subdivisions": {
+                "KI-G": "Gilbert Islands",
+                "KI-L": "Line Islands",
+                "KI-P": "Phoenix Islands"
+            }
+        },
+        "MH": {
+            "name": "Marshall Islands",
+            "native": "M\u0327aje\u013c",
+            "phone": "692",
+            "continent": "OC",
+            "capital": "Majuro",
+            "currency": "USD",
+            "languages": "en,mh",
+            "subdivisions": {
+                "MH-L": "Ralik chain",
+                "MH-ALL": "Ailinglapalap",
+                "MH-EBO": "Ebon",
+                "MH-ENI": "Eniwetok",
+                "MH-JAL": "Jaluit",
+                "MH-KIL": "Kili",
+                "MH-KWA": "Kwajalein",
+                "MH-LAE": "Lae",
+                "MH-LIB": "Lib",
+                "MH-NMK": "Namorik",
+                "MH-NMU": "Namu",
+                "MH-RON": "Rongelap",
+                "MH-UJA": "Ujae",
+                "MH-UJL": "Ujelang",
+                "MH-WTH": "Wotho",
+                "MH-T": "Ratak chain",
+                "MH-ALK": "Ailuk",
+                "MH-ARN": "Arno",
+                "MH-AUR": "Aur",
+                "MH-LIK": "Likiep",
+                "MH-MAJ": "Majuro",
+                "MH-MAL": "Maloelap",
+                "MH-MEJ": "Mejit",
+                "MH-MIL": "Mili",
+                "MH-UTI": "Utirik",
+                "MH-WTJ": "Wotje"
+            }
+        },
+        "MP": {
+            "name": "Northern Mariana Islands",
+            "native": "Northern Mariana Islands",
+            "phone": "1670",
+            "continent": "OC",
+            "capital": "Saipan",
+            "currency": "USD",
+            "languages": "en,ch",
+            "subdivisions": {
+                "MP-MP": "Northern Mariana Islands"
+            }
+        },
+        "NC": {
+            "name": "New Caledonia",
+            "native": "Nouvelle-Cal\u00e9donie",
+            "phone": "687",
+            "continent": "OC",
+            "capital": "Noum\u00e9a",
+            "currency": "XPF",
+            "languages": "fr",
+            "subdivisions": {
+                "NC-NC": "New Caledonia"
+            }
+        },
+        "NF": {
+            "name": "Norfolk Island",
+            "native": "Norfolk Island",
+            "phone": "672",
+            "continent": "OC",
+            "capital": "Kingston",
+            "currency": "AUD",
+            "languages": "en",
+            "subdivisions": {
+                "NF-NF": "Norfolk Island"
+            }
+        },
+        "NR": {
+            "name": "Nauru",
+            "native": "Nauru",
+            "phone": "674",
+            "continent": "OC",
+            "capital": "Yaren",
+            "currency": "AUD",
+            "languages": "en,na",
+            "subdivisions": {
+                "NR-NR": "Nauru"
+            }
+        },
+        "NU": {
+            "name": "Niue",
+            "native": "Niu\u0113",
+            "phone": "683",
+            "continent": "OC",
+            "capital": "Alofi",
+            "currency": "NZD",
+            "languages": "en",
+            "subdivisions": {
+                "NU-NU": "Niue"
+            }
+        },
+        "NZ": {
+            "name": "New Zealand",
+            "native": "New Zealand",
+            "phone": "64",
+            "continent": "OC",
+            "capital": "Wellington",
+            "currency": "NZD",
+            "languages": "en,mi",
+            "subdivisions": {
+                "NZ-AUK": "Auckland",
+                "NZ-BOP": "Bay of Plenty",
+                "NZ-GIS": "Gisborne",
+                "NZ-HKB": "Hawkes's Bay",
+                "NZ-MWT": "Manawatu-Wanganui",
+                "NZ-NTL": "Northland",
+                "NZ-TKI": "Taranaki",
+                "NZ-WKO": "Waikato",
+                "NZ-WGN": "Wellington",
+                "NZ-CAN": "Canterbury",
+                "NZ-MBH": "Marlborough",
+                "NZ-NSN": "Nelson",
+                "NZ-OTA": "Otago",
+                "NZ-STL": "Southland",
+                "NZ-TAS": "Tasman",
+                "NZ-WTC": "West Coast"
+            }
+        },
+        "PF": {
+            "name": "French Polynesia",
+            "native": "Polyn\u00e9sie fran\u00e7aise",
+            "phone": "689",
+            "continent": "OC",
+            "capital": "Papeet\u0113",
+            "currency": "XPF",
+            "languages": "fr",
+            "subdivisions": {
+                "PF-PF": "French Polynesia"
+            }
+        },
+        "PG": {
+            "name": "Papua New Guinea",
+            "native": "Papua Niugini",
+            "phone": "675",
+            "continent": "OC",
+            "capital": "Port Moresby",
+            "currency": "PGK",
+            "languages": "en",
+            "subdivisions": {
+                "PG-NCD": "National Capital District (Port Moresby)",
+                "PG-CPM": "Central",
+                "PG-CPK": "Chimbu",
+                "PG-EHG": "Eastern Highlands",
+                "PG-EBR": "East New Britain",
+                "PG-ESW": "East Sepik",
+                "PG-EPW": "Enga",
+                "PG-GPK": "Gulf",
+                "PG-MPM": "Madang",
+                "PG-MRL": "Manus",
+                "PG-MBA": "Milne Bay",
+                "PG-MPL": "Morobe",
+                "PG-NIK": "New Ireland",
+                "PG-NPP": "Northern",
+                "PG-NSA": "North Solomons",
+                "PG-SAN": "Sandaun [West Sepik]",
+                "PG-SHM": "Southern Highlands",
+                "PG-WPD": "Western",
+                "PG-WHM": "Western Highlands",
+                "PG-WBK": "West New Britain"
+            }
+        },
+        "PN": {
+            "name": "Pitcairn Islands",
+            "native": "Pitcairn Islands",
+            "phone": "64",
+            "continent": "OC",
+            "capital": "Adamstown",
+            "currency": "NZD",
+            "languages": "en",
+            "subdivisions": {
+                "PN-PN": "Pitcairn"
+            }
+        },
+        "PW": {
+            "name": "Palau",
+            "native": "Palau",
+            "phone": "680",
+            "continent": "OC",
+            "capital": "Ngerulmud",
+            "currency": "USD",
+            "languages": "en",
+            "subdivisions": {
+                "PW-PW": "Palau"
+            }
+        },
+        "SB": {
+            "name": "Solomon Islands",
+            "native": "Solomon Islands",
+            "phone": "677",
+            "continent": "OC",
+            "capital": "Honiara",
+            "currency": "SBD",
+            "languages": "en",
+            "subdivisions": {
+                "SB-CT": "Capital Territory (Honiara)",
+                "SB-CE": "Central",
+                "SB-GU": "Guadalcanal",
+                "SB-IS": "Isabel",
+                "SB-MK": "Makira",
+                "SB-ML": "Malaita",
+                "SB-TE": "Temotu",
+                "SB-WE": "Western"
+            }
+        },
+        "TK": {
+            "name": "Tokelau",
+            "native": "Tokelau",
+            "phone": "690",
+            "continent": "OC",
+            "capital": "Fakaofo",
+            "currency": "NZD",
+            "languages": "en",
+            "subdivisions": {
+                "TK-TK": "Tokelau"
+            }
+        },
+        "TL": {
+            "name": "East Timor",
+            "native": "Timor-Leste",
+            "phone": "670",
+            "continent": "OC",
+            "capital": "Dili",
+            "currency": "USD",
+            "languages": "pt",
+            "subdivisions": []
+        },
+        "TO": {
+            "name": "Tonga",
+            "native": "Tonga",
+            "phone": "676",
+            "continent": "OC",
+            "capital": "Nuku'alofa",
+            "currency": "TOP",
+            "languages": "en,to",
+            "subdivisions": {
+                "TO-TO": "Tonga"
+            }
+        },
+        "TV": {
+            "name": "Tuvalu",
+            "native": "Tuvalu",
+            "phone": "688",
+            "continent": "OC",
+            "capital": "Funafuti",
+            "currency": "AUD",
+            "languages": "en",
+            "subdivisions": {
+                "TV-TV": "Tuvalu"
+            }
+        },
+        "UM": {
+            "name": "U.S. Minor Outlying Islands",
+            "native": "United States Minor Outlying Islands",
+            "phone": "",
+            "continent": "OC",
+            "capital": "",
+            "currency": "USD",
+            "languages": "en",
+            "subdivisions": []
+        },
+        "VU": {
+            "name": "Vanuatu",
+            "native": "Vanuatu",
+            "phone": "678",
+            "continent": "OC",
+            "capital": "Port Vila",
+            "currency": "VUV",
+            "languages": "bi,en,fr",
+            "subdivisions": {
+                "VU-MAP": "Malampa",
+                "VU-PAM": "P\u00e9nama",
+                "VU-SAM": "Sanma",
+                "VU-SEE": "Sh\u00e9fa",
+                "VU-TAE": "Taf\u00e9a",
+                "VU-TOB": "Torba"
+            }
+        },
+        "WF": {
+            "name": "Wallis and Futuna",
+            "native": "Wallis et Futuna",
+            "phone": "681",
+            "continent": "OC",
+            "capital": "Mata-Utu",
+            "currency": "XPF",
+            "languages": "fr",
+            "subdivisions": {
+                "WF-WF": "Wallis & Futuna Islands"
+            }
+        },
+        "WS": {
+            "name": "Samoa",
+            "native": "Samoa",
+            "phone": "685",
+            "continent": "OC",
+            "capital": "Apia",
+            "currency": "WST",
+            "languages": "sm,en",
+            "subdivisions": {
+                "WS-AA": "A'ana",
+                "WS-AL": "Aiga-i-le-Tai",
+                "WS-AT": "Atua",
+                "WS-FA": "Fa'asaleleaga",
+                "WS-GE": "Gaga'emauga",
+                "WS-GI": "Gagaifomauga",
+                "WS-PA": "Palauli",
+                "WS-SA": "Satupa'itea",
+                "WS-TU": "Tuamasaga",
+                "WS-VF": "Va'a-o-Fonoti",
+                "WS-VS": "Vaisigano"
+            }
+        }
+    }
+}

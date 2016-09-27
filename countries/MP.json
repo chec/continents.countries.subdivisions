@@ -1,0 +1,12 @@
+{
+    "name": "Northern Mariana Islands",
+    "native": "Northern Mariana Islands",
+    "phone": "1670",
+    "continent": "OC",
+    "capital": "Saipan",
+    "currency": "USD",
+    "languages": "en,ch",
+    "subdivisions": {
+        "MP-MP": "Northern Mariana Islands"
+    }
+}

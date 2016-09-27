@@ -1,0 +1,33 @@
+{
+    "name": "Mongolia",
+    "native": "\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441",
+    "phone": "976",
+    "continent": "AS",
+    "capital": "Ulan Bator",
+    "currency": "MNT",
+    "languages": "mn",
+    "subdivisions": {
+        "MN-1": "Ulaanbaatar",
+        "MN-073": "Arhangay",
+        "MN-069": "Bayanhongor",
+        "MN-071": "Bayan-\u00d6lgiy",
+        "MN-067": "Bulgan",
+        "MN-037": "Darhan uul",
+        "MN-061": "Dornod",
+        "MN-063": "Dornogov\u012d",
+        "MN-059": "Dundgov\u012d",
+        "MN-057": "Dzavhan",
+        "MN-065": "Gov\u012d-Altay",
+        "MN-064": "Gov\u012d-S\u00fcmber",
+        "MN-039": "Hentiy",
+        "MN-043": "Hovd",
+        "MN-041": "H\u00f6vsg\u00f6l",
+        "MN-053": "\u00d6mn\u00f6gov\u012d",
+        "MN-035": "Orhon",
+        "MN-055": "\u00d6v\u00f6rhangay",
+        "MN-049": "Selenge",
+        "MN-051": "S\u00fchbaatar",
+        "MN-047": "T\u00f6v",
+        "MN-046": "Uvs"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Saint Kitts and Nevis",
+    "native": "Saint Kitts and Nevis",
+    "phone": "1869",
+    "continent": "NA",
+    "capital": "Basseterre",
+    "currency": "XCD",
+    "languages": "en",
+    "subdivisions": {
+        "KN-KN": "Saint Kitts & Nevis"
+    }
+}

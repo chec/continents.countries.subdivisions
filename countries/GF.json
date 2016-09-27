@@ -1,0 +1,12 @@
+{
+    "name": "French Guiana",
+    "native": "Guyane fran\u00e7aise",
+    "phone": "594",
+    "continent": "SA",
+    "capital": "Cayenne",
+    "currency": "EUR",
+    "languages": "fr",
+    "subdivisions": {
+        "GF-GF": "French Guiana"
+    }
+}

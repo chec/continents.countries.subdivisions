@@ -1,0 +1,12 @@
+{
+    "name": "Antigua and Barbuda",
+    "native": "Antigua and Barbuda",
+    "phone": "1268",
+    "continent": "NA",
+    "capital": "Saint John's",
+    "currency": "XCD",
+    "languages": "en",
+    "subdivisions": {
+        "AG-AG": "Antigua & Barbuda"
+    }
+}

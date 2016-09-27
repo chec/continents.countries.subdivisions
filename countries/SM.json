@@ -1,0 +1,12 @@
+{
+    "name": "San Marino",
+    "native": "San Marino",
+    "phone": "378",
+    "continent": "EU",
+    "capital": "City of San Marino",
+    "currency": "EUR",
+    "languages": "it",
+    "subdivisions": {
+        "SM-SM": "San Marino"
+    }
+}

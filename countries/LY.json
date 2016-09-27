@@ -1,0 +1,24 @@
+{
+    "name": "Libya",
+    "native": "\u200f\u0644\u064a\u0628\u064a\u0627",
+    "phone": "218",
+    "continent": "AF",
+    "capital": "Tripoli",
+    "currency": "LYD",
+    "languages": "ar",
+    "subdivisions": {
+        "LY-BU": "Al Bu\u0163n\u0101n",
+        "LY-JA": "Al Jabal al Akh\u1e11ar",
+        "LY-JG": "Al Jabal al Gharb\u012b",
+        "LY-Ju": "Al Jufrah",
+        "LY-WA": "Al W\u0101\u1e29ah",
+        "LY-Wu": "Al Wus\u0163\u00e1",
+        "LY-ZA": "Az Z\u0101wiyah",
+        "LY-BA": "Bangh\u0101z\u012b",
+        "LY-FA": "Fazz\u0101n",
+        "LY-MI": "Mi\u015fr\u0101tah",
+        "LY-NA": "Naggaza",
+        "LY-SF": "Sawfajjin",
+        "LY-TB": "\u0162ar\u0101bulus"
+    }
+}

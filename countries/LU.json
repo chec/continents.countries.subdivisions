@@ -1,0 +1,14 @@
+{
+    "name": "Luxembourg",
+    "native": "Luxembourg",
+    "phone": "352",
+    "continent": "EU",
+    "capital": "Luxembourg",
+    "currency": "EUR",
+    "languages": "fr,de,lb",
+    "subdivisions": {
+        "LU-D": "Diekirch",
+        "LU-G": "Grevenmacher",
+        "LU-L": "Luxembourg (Luxemburg)"
+    }
+}

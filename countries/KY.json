@@ -1,0 +1,12 @@
+{
+    "name": "Cayman Islands",
+    "native": "Cayman Islands",
+    "phone": "1345",
+    "continent": "NA",
+    "capital": "George Town",
+    "currency": "KYD",
+    "languages": "en",
+    "subdivisions": {
+        "KY-KY": "Cayman Islands"
+    }
+}

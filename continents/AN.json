@@ -1,0 +1,65 @@
+{
+    "name": "Antarctica",
+    "countries": {
+        "AQ": {
+            "name": "Antarctica",
+            "native": "Antarctica",
+            "phone": "",
+            "continent": "AN",
+            "capital": "",
+            "currency": "",
+            "languages": "",
+            "subdivisions": {
+                "AQ-AQ": "Antarctica"
+            }
+        },
+        "BV": {
+            "name": "Bouvet Island",
+            "native": "Bouvet\u00f8ya",
+            "phone": "",
+            "continent": "AN",
+            "capital": "",
+            "currency": "NOK",
+            "languages": "",
+            "subdivisions": {
+                "BV-BV": "Bouvet Island"
+            }
+        },
+        "GS": {
+            "name": "South Georgia and the South Sandwich Islands",
+            "native": "South Georgia",
+            "phone": "500",
+            "continent": "AN",
+            "capital": "King Edward Point",
+            "currency": "GBP",
+            "languages": "en",
+            "subdivisions": {
+                "GS-GS": "S.Georgia & S.Sandwich Islands"
+            }
+        },
+        "HM": {
+            "name": "Heard Island and McDonald Islands",
+            "native": "Heard Island and McDonald Islands",
+            "phone": "",
+            "continent": "AN",
+            "capital": "",
+            "currency": "AUD",
+            "languages": "en",
+            "subdivisions": {
+                "HM-HM": "Heard & McDonald Islands"
+            }
+        },
+        "TF": {
+            "name": "French Southern Territories",
+            "native": "Territoire des Terres australes et antarctiques fr",
+            "phone": "",
+            "continent": "AN",
+            "capital": "Port-aux-Fran\u00e7ais",
+            "currency": "EUR",
+            "languages": "fr",
+            "subdivisions": {
+                "TF-TF": "French Southern Territories"
+            }
+        }
+    }
+}

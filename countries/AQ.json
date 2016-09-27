@@ -1,0 +1,12 @@
+{
+    "name": "Antarctica",
+    "native": "Antarctica",
+    "phone": "",
+    "continent": "AN",
+    "capital": "",
+    "currency": "",
+    "languages": "",
+    "subdivisions": {
+        "AQ-AQ": "Antarctica"
+    }
+}

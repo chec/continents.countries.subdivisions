@@ -1,0 +1,12 @@
+{
+    "name": "South Georgia and the South Sandwich Islands",
+    "native": "South Georgia",
+    "phone": "500",
+    "continent": "AN",
+    "capital": "King Edward Point",
+    "currency": "GBP",
+    "languages": "en",
+    "subdivisions": {
+        "GS-GS": "S.Georgia & S.Sandwich Islands"
+    }
+}

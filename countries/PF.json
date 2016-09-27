@@ -1,0 +1,12 @@
+{
+    "name": "French Polynesia",
+    "native": "Polyn\u00e9sie fran\u00e7aise",
+    "phone": "689",
+    "continent": "OC",
+    "capital": "Papeet\u0113",
+    "currency": "XPF",
+    "languages": "fr",
+    "subdivisions": {
+        "PF-PF": "French Polynesia"
+    }
+}

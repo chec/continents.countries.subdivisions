@@ -1,0 +1,12 @@
+{
+    "name": "Saint Vincent and the Grenadines",
+    "native": "Saint Vincent and the Grenadines",
+    "phone": "1784",
+    "continent": "NA",
+    "capital": "Kingstown",
+    "currency": "XCD",
+    "languages": "en",
+    "subdivisions": {
+        "VC-VC": "St. Vincent & the Grenadines"
+    }
+}

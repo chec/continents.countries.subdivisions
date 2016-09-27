@@ -1,0 +1,12 @@
+{
+    "name": "British Indian Ocean Territory",
+    "native": "British Indian Ocean Territory",
+    "phone": "246",
+    "continent": "AS",
+    "capital": "Diego Garcia",
+    "currency": "USD",
+    "languages": "en",
+    "subdivisions": {
+        "IO-IO": "British Indian Ocean Territory"
+    }
+}

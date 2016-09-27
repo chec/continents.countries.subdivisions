@@ -1,0 +1,19 @@
+{
+    "name": "Pakistan",
+    "native": "Pakistan",
+    "phone": "92",
+    "continent": "AS",
+    "capital": "Islamabad",
+    "currency": "PKR",
+    "languages": "en,ur",
+    "subdivisions": {
+        "PK-IS": "Islamabad",
+        "PK-BA": "Baluchistan (Balochist\u0101n)",
+        "PK-NW": "North-West Frontier",
+        "PK-PB": "Punjab",
+        "PK-SD": "Sind (Sindh)",
+        "PK-TA": "Federally Administered Tribal Areas",
+        "PK-JK": "Azad Kashmir",
+        "PK-NA": "Northern Areas"
+    }
+}

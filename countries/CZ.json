@@ -1,0 +1,19 @@
+{
+    "name": "Czech Republic",
+    "native": "\u010cesk\u00e1 republika",
+    "phone": "420",
+    "continent": "EU",
+    "capital": "Prague",
+    "currency": "CZK",
+    "languages": "cs,sk",
+    "subdivisions": {
+        "CZ-PRG": "Praha",
+        "CZ-CJC": "Jiho\u010desk\u00fd kraj",
+        "CZ-CJM": "Jihomoravsk\u00fd kraj",
+        "CZ-CSC": "Severo\u010desk\u00fd kraj",
+        "CZ-CSM": "Severomoravsk\u00fd kraj",
+        "CZ-CST": "St\u0159edo\u010desk\u00fd kraj",
+        "CZ-CVC": "V\u00fdchodo\u010desk\u00fd kraj",
+        "CZ-CZC": "Z\u00e1pado\u010desk\u00fd kraj"
+    }
+}

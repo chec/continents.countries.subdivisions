@@ -1,0 +1,12 @@
+{
+    "name": "Philippines",
+    "native": "Pilipinas",
+    "phone": "63",
+    "continent": "AS",
+    "capital": "Manila",
+    "currency": "PHP",
+    "languages": "en",
+    "subdivisions": {
+        "PH-PH": "Philippines"
+    }
+}

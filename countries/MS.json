@@ -1,0 +1,12 @@
+{
+    "name": "Montserrat",
+    "native": "Montserrat",
+    "phone": "1664",
+    "continent": "NA",
+    "capital": "Plymouth",
+    "currency": "XCD",
+    "languages": "en",
+    "subdivisions": {
+        "MS-MS": "Montserrat"
+    }
+}

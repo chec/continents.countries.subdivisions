@@ -1,0 +1,16 @@
+{
+    "name": "Togo",
+    "native": "Togo",
+    "phone": "228",
+    "continent": "AF",
+    "capital": "Lom\u00e9",
+    "currency": "XOF",
+    "languages": "fr",
+    "subdivisions": {
+        "TG-C": "Centre",
+        "TG-K": "Kara",
+        "TG-M": "Maritime (R\u00e9gion)",
+        "TG-P": "Plateaux",
+        "TG-S": "Savannes"
+    }
+}

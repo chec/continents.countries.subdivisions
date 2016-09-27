@@ -1,0 +1,17 @@
+{
+    "name": "Lebanon",
+    "native": "\u0644\u0628\u0646\u0627\u0646",
+    "phone": "961",
+    "continent": "AS",
+    "capital": "Beirut",
+    "currency": "LBP",
+    "languages": "ar,fr",
+    "subdivisions": {
+        "LB-BA": "Beiro\u00fbt (Bayr\u016bt)",
+        "LB-BI": "El B\u00e9qaa (Al Biq\u0101')",
+        "LB-JL": "Jabal Loubn\u00e2ne (Jabal Lubn\u0101n)",
+        "LB-AS": "Loubn\u00e2ne ech Chem\u00e2li (Ash Sham\u0101l)",
+        "LB-JA": "Loubn\u00e2ne ej Jno\u00fbbi (Al Jan\u016bb)",
+        "LB-NA": "Nabat\u00eey\u00e9 (An Naba\u0163\u012byah"
+    }
+}

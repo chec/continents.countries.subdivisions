@@ -1,0 +1,12 @@
+{
+    "name": "Faroe Islands",
+    "native": "F\u00f8royar",
+    "phone": "298",
+    "continent": "EU",
+    "capital": "T\u00f3rshavn",
+    "currency": "DKK",
+    "languages": "fo",
+    "subdivisions": {
+        "FO-FO": "Faroe Islands"
+    }
+}

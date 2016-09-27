@@ -1,0 +1,12 @@
+{
+    "name": "Puerto Rico",
+    "native": "Puerto Rico",
+    "phone": "1787,1939",
+    "continent": "NA",
+    "capital": "San Juan",
+    "currency": "USD",
+    "languages": "es,en",
+    "subdivisions": {
+        "PR-PR": "Puerto Rico"
+    }
+}

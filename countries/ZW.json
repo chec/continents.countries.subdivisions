@@ -1,0 +1,21 @@
+{
+    "name": "Zimbabwe",
+    "native": "Zimbabwe",
+    "phone": "263",
+    "continent": "AF",
+    "capital": "Harare",
+    "currency": "ZWL",
+    "languages": "en,sn,nd",
+    "subdivisions": {
+        "ZW-BU": "Bulawayo",
+        "ZW-HA": "Harare",
+        "ZW-MA": "Manicaland",
+        "ZW-MC": "Mashonaland Central",
+        "ZW-ME": "Mashonaland East",
+        "ZW-MW": "Mashonaland West",
+        "ZW-MV": "Masvingo",
+        "ZW-MN": "Matabeleland North",
+        "ZW-MS": "Matabeleland South",
+        "ZW-MI": "Midlands"
+    }
+}

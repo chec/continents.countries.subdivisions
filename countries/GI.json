@@ -1,0 +1,12 @@
+{
+    "name": "Gibraltar",
+    "native": "Gibraltar",
+    "phone": "350",
+    "continent": "EU",
+    "capital": "Gibraltar",
+    "currency": "GIP",
+    "languages": "en",
+    "subdivisions": {
+        "GI-GI": "Gibraltar"
+    }
+}

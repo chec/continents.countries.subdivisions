@@ -1,0 +1,16 @@
+{
+    "name": "Fiji",
+    "native": "Fiji",
+    "phone": "679",
+    "continent": "OC",
+    "capital": "Suva",
+    "currency": "FJD",
+    "languages": "en,fj,hi,ur",
+    "subdivisions": {
+        "FJ-C": "Central",
+        "FJ-E": "Eastern",
+        "FJ-N": "Northern",
+        "FJ-W": "Western",
+        "FJ-R": "Rotuma"
+    }
+}

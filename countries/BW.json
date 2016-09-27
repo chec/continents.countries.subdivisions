@@ -1,0 +1,21 @@
+{
+    "name": "Botswana",
+    "native": "Botswana",
+    "phone": "267",
+    "continent": "AF",
+    "capital": "Gaborone",
+    "currency": "BWP",
+    "languages": "en,tn",
+    "subdivisions": {
+        "BW-CE": "Central [Serowe-Palapye]",
+        "BW-CH": "Chobe",
+        "BW-GH": "Ghanzi",
+        "BW-KG": "Kgalagadi",
+        "BW-KL": "Kgatleng",
+        "BW-KW": "Kweneng",
+        "BW-NG": "Ngamiland [North-West]",
+        "BW-NE": "North-East",
+        "BW-SE": "South-East",
+        "BW-SO": "Southern [Ngwaketse]"
+    }
+}

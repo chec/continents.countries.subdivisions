@@ -1,0 +1,12 @@
+{
+    "name": "Saint Pierre and Miquelon",
+    "native": "Saint-Pierre-et-Miquelon",
+    "phone": "508",
+    "continent": "NA",
+    "capital": "Saint-Pierre",
+    "currency": "EUR",
+    "languages": "fr",
+    "subdivisions": {
+        "PM-PM": "St. Pierre & Miquelon"
+    }
+}
